@@ -2,21 +2,7 @@ var horiObj = {},
    varObj = {};
 horiObj.imageObj = [
 
-   {
-      "src": "images/02.jpg",
-      "company": "上海摩库数据技术有限公司<br>2016/4-至今",
-      "url": "http://www.molbase.cn/",
-      "title": "上海摩库数据技术有限公司",
-      "icon": "fa-dashboard",
-      "content": "2016/4-至今<br>前端工程师<br>工作描述： <br>1、负责前台网站页面开发和维护，前台网站主要分为：摩贝主站（拥有4500万化合物数据信息：搜索，展示，维护。） 摩贝商城（化学品阐述，购买，支付，售后。）<br>2、负责微信公众号摩库数据页面管理和开发<br>3、负责微信小程序项目（摩贝云店、摩贝化工）搭建和开发<br>4、负责sass平台管理后台开发，数据可视化开发<br>5、协调前端人员开发完成项目-开发-测试-验收-发布。"
-   }, {
-      "src": "images/04.jpg",
-      "company": "上海安师傅汽车服务股份有限公司<br>2014/07 -- 2016/4<br>",
-      "url": "http://www.4001002003.com/",
-      "title": "上海安师傅汽车服务股份有限公司",
-      "icon": "fa-tasks",
-      "content": "2014/07 -- 2016/4<br>前端工程师<br>工作描述： <br>1、使用Div+Css以及Html5+Css3等技术开发符合W3C标准的前端Pc页面及响应式页面。<br>2、使用Javascript 、Jquery、Ajax等技术完成页面美化交互和数据交互。<br>3、根据产品需求和平面设计，优化后期前端用户体现效果，提高用户体验。<br>4、解决 Pc 端网页的兼容问题，及移动端的适配问题。<br>5、使用Firefox、Chrome等浏览器的Debug工具并快速解决页面中出现的Bug。"
-   }, {
+    {
       "src": "images/05.jpg",
       "company": "项目经验<br>SaaS后台管理系统",
       "url": "http://saas.molbase.cn/",
